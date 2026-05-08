@@ -31,7 +31,7 @@ Governance-first Cloudflare automation platform using Terraform, GitHub Actions,
 - Operational Governance
 - Compliance Automation
 
-🔗 Repo: <PRIVATE_URL>
+🔗 Repo: https://github.com/neibaur/cloudflare_IaC
 
 ---
 
@@ -101,5 +101,5 @@ Portfolio platform focused on operational engineering, automation, cloud infrast
 
 - Portfolio: https://isaacneibaur.com
 - Engineering Blog: https://100daydash.blog
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- LinkedIn: https://www.linkedin.com/in/isaacneibaur/
 ```
